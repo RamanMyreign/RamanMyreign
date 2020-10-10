@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 * ⚡ Fun fact:When I am not working , I am busy playing <code><img  height="20" src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike"></code>
 
 
-![](https://komarev.com/ghpvc/?username=mishravimal99&color=blue&style=plastic&label=Github+Profile+Views)
+![](https://komarev.com/ghpvc/?username=RamanMyreign&color=blue&style=plastic&label=Github+Profile+Views)
 ### Blogs posts
 <br>
 
-<code><img height="252" width="400" src="https://github-readme-stats.vercel.app/api?username=mishravimal99&show_icons=true&theme=dracula"></code>
-<code><img height="252" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishravimal99&theme=dracula"></code>
+<code><img height="252" width="400" src="https://github-readme-stats.vercel.app/api?username=RamanMyreign&show_icons=true&theme=dracula"></code>
+<code><img height="252" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamanMyreign&theme=dracula"></code>
 <br />
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories 😊 !</h3>
 
-[linkedin]: https://www.linkedin.com/in/vimal-mishra-95462b187/
-[Facebook]: https://www.facebook.com/REYAN.SINGH.75436/
+[linkedin]: https://www.linkedin.com/in/raman-shukla-b8b9931b5/
+[Facebook]: https://www.facebook.com/raman.shuklasid
